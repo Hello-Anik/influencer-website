@@ -232,7 +232,12 @@
     .features{
       flex-direction: column-reverse;
       justify-items: center;
-      margin-left: 25px;
+    }
+    .feature-img img{
+      max-width: 300px;
+    }
+    .feature-text{
+      text-align: center;
     }
     .card-img{
       width: 100%;
