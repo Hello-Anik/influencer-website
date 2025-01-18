@@ -83,7 +83,7 @@
     margin-top: 40px;
   }
   .banner-img img{
-    width: 100%;
+    width: 400px;
   }
   .banner-description{
     margin-bottom: 20px;
@@ -167,7 +167,7 @@
     margin-bottom: 15px;
   }
   .img-feature{
-    width: 100%;
+    max-width: 350px;
   }
   /* footer related style */
 
@@ -235,6 +235,12 @@
     }
     .feature-text{
       text-align: center;
+    }
+    .feature-img{
+      text-align: center;
+    }
+    .img-feature{
+      width: 100%;
     }
     .card-img{
       width: 100%;
