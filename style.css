@@ -233,9 +233,6 @@
       flex-direction: column-reverse;
       justify-items: center;
     }
-    .feature-img img{
-      max-width: 300px;
-    }
     .feature-text{
       text-align: center;
     }
