@@ -82,6 +82,9 @@
     background-size: cover;
     margin-top: 40px;
   }
+  .banner-img img{
+    width: 100%;
+  }
   .banner-description{
     margin-bottom: 20px;
   }
@@ -163,6 +166,10 @@
     font-weight: 700;
     margin-bottom: 15px;
   }
+  .img-feature{
+    width: 100%;
+  }
+  /* footer related style */
 
   footer{
     background: rgb(31, 2, 58);
@@ -206,7 +213,7 @@
         text-align: center;
         gap: 40px;
     }
-    .banner-img{
+    .banner-img img{
         width: 100%;
     }
     .company{
@@ -214,7 +221,6 @@
         gap: 24px;
         justify-content: center;
         align-items: center;
-        margin-left: 50px;
     }
     .product-title{
       padding-top: 100px ;
@@ -227,6 +233,9 @@
       flex-direction: column-reverse;
       justify-items: center;
       margin-left: 25px;
+    }
+    .card-img{
+      width: 100%;
     }
 
   }
